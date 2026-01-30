@@ -4,9 +4,7 @@
 # 🎮 Dots & Boxes Game
 **A modern, interactive web implementation of the classic pen-and-paper strategy game.**
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![Dots & Boxes Game Banner](public/banner.png)
 
 </div>
 
@@ -52,7 +50,7 @@ Follow these steps to get the game running locally on your machine:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/naitik09090/Dot_Games.git
    cd dot-game
    ```
 
