@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import HomePage from '../components/Homepage';
-import GridSelection from '../components/GridSelection';
-import PlayerSetup from '../components/PlayerSetup';
-import MultiplayerSetup from '../components/MultiplayerSetup';
-import GameBoard from '../components/GameBoard';
+import HomePage from './HomePage.jsx';
+import GridSelection from './GridSelection.jsx';
+import PlayerSetup from './PlayerSetup.jsx';
+import MultiplayerSetup from './MultiplayerSetup.jsx';
+import GameBoard from './GameBoard.jsx';
 
 
 function DotsGame() {
